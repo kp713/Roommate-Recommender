@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "roomiereco",
+  "private_key_id": "9acf05193791e2f2f12da57a8c7e310bb12c3e85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDX3I9flT+fnGRa\nBLdKpJWJTvP2GwsFyvMtEbAKso/TMtUtz8VCr4g4N9ebaZvpxPHAgrOqUh2fD55g\nGjlUYbI2JxYonRjqBuH0ocYSa3xJffmNzVIJlSRsyDgoxZxy2XEI3nHfOEAQCZxj\nvL1TSt3xtNwN2MLiYdEi/jakOwR7i9WBRLyI+xUasEN9SJZWEh7e84gBO1uGcBW9\neNq6qNBe+3pWhbWch/37ecsUxsqe8Lvm8XKhJBYGxgam21tTn8sdWFu4f2SEpC4/\nOfXq91s5uuzQIWfQXw8XwhVGnh3dLnjBNspAKeZYGdHg9xPiRcgJohKRCGktgSPO\nw/GprNWzAgMBAAECggEALHPHMq/RglT6dW8zL7Pk93nC05OOGYtJuKZD0nAjHiMB\ns4Vt4eWz75/QTrjY2rMr9bD0vsZaQz88Jh5AYBgeUviJn6N6VfdE4NPPrktkNN40\nXfdCRabo8V3p8rt/FEei92iXmphC2QqhoghkFJr+SaAtEMzqlSP/pW0kY32j1qz8\nICQwjyNsj5ZedbsZAnVeVSxtVx5YCdUiHSc+4ZCR9SuEs8sDLet8/yIOBxu7+du4\nXK2/nmvg5twQwvNGOAKomN2jjynnnWU0Xyotf7JvcEbZiWWv23Q0mU+/jxXUnX9V\nLMr/vU/Rpmuy2pkX79+U3+ZWXElmnSUgkF1L+8hCgQKBgQD8sx97AzDp7zqnUI9E\nxorHknGmSbMxgi/XRs3K4EuIsCQfSZYaPD9Td8FMB0qLsdBWl55Lbim1tNIEG8zH\n3N35V5f7wPC2MF8nCVxcqCrTZcq5jaLfekyyu260uMZ3j7+tIoiNnnEH2BDQPpYp\n9qj71dsPB7nWUSQVxEKXNqWmOQKBgQDarkW3hRtvjSFGW+Ngendkc+jfEed6cKc0\n3CmLNZNjMT3AINIJEp0if31eQL4yrigXwjwBfIKB9NZGPeReI0dYww2uyQTDvTA0\ngBklvqCKNFTGc4YYoKeuM0VmV7e2Ux/V3EmKn+jXZr5SZZqukXugW1Kn1JQr2d1T\ncBDTOIY7SwKBgBYe9A2HrPt9hqvo4HHL05A+4JYG85nM5LU6rH8q/VG84Zyfi3VG\neuCqphAqvzrVWQCLiz7dKOeQKaZUbKu+SOwv380ZCblZKKs5JY2y5vTUf1eY734S\nra4jvEAzwKPswIG+eSe0i/58ypQANpL71bUd9mwtZ/Y76iXBpXapQPz5AoGASGCj\nzIDuurYQTFQ/ZoBCIepHKgWoAptkjBdOXLfnx03V7VAvlDcn8PIXUWnGScnglTSB\nXdCS9WZOwULc4dd1VsiAL9hyjkKAwO+g4yA7zGJTqLc1q9MIjJyFnMDtmhfbEpJt\neMdCboCf/2+Hib23GDUBn3C5deYO3f3aY75ylw8CgYBVqc1YdLwgv8JabVY7yN5q\n6loZw0HGnSFHv6Wc6xGivrQDxK1ezWRkutONsK/ii/bFjFZwqCSUmdgos7iTssj1\ndANBI45iWU3ssZZbUcEDE+Brs+TIoLV7YrzqTLqJA8KI709KxAaHN9LZ4GJdQssK\nnc3B5C/bHQOF7f6OqmXDDg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "roomiereco@roomiereco.iam.gserviceaccount.com",
+  "client_id": "117944640130795622055",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/roomiereco%40roomiereco.iam.gserviceaccount.com"
+}

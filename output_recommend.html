@@ -1,0 +1,48 @@
+<html>
+<head>
+<style>
+input[type=submit] {
+    width: 15em;  height: 3em;
+}
+
+
+.bg {
+  
+  background-image: url("/static/mini.jpg");
+ 
+  height: 100%; 
+
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.column {
+  float: left;
+  width: 45%;
+  height: 125px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript">
+    
+</script>
+</head>
+
+ <body style="font-family:Arial" class="bg">
+    <h1 style="color:black; font-family:Arial"><center>Output<center></h1>
+    {% for table in tables %}
+            {{titles[loop.index]}}
+            {{ table|safe }}
+{% endfor %}
+</body>
+</html>

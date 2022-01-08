@@ -1,0 +1,61 @@
+<html>
+<head>
+<style>
+.bg {
+  
+  background-image: url("mini.jpg");
+
+ 
+  height: 100%; 
+
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.column {
+  float: left;
+  width: 45%;
+  height: 100px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript">
+    
+</script>
+</head>
+ <body style="font-family:Arial" class="bg">
+   <form action = "http://localhost:5000/login" method = "POST">
+    <h1 style="color:white; font-family:Arial"><center>The Roomies<center></h1>
+      <p style= "color:white">Please fill out our form below to get great roommate recommendations. <br> We use an efficent 
+  algorithm to bring out the best combinations. <br> We ask different types of questions to understand
+   the behaviour, <br>personality and preferences of the individual. </p>
+   <p style= "color:white"> Please follow the steps</p>
+   <span style= "color:white">Step 1: Click on the link below. It will direct you to the form </span>
+   <br>
+      <span style= "color:white">Step 2: Come back to this page and choose your preferred mode <br>of receiving recommendations! </span>
+
+
+<br>
+<p><a href="https://forms.gle/VP8Rraw2eM4Jwbwr8" target="_blank" style="color:yellow">
+  Hi, Click on me, I am your way to good company!!
+</a></p>
+   <span style= "color:white">Select how you want to recieve recommendations</span>
+<br>
+<br>
+<input style="font-size:16px; background-color:yellow; font-family:Arial" type="submit" name="art1" value="See recommendations here">
+<input style="font-size:16px; background-color:yellow; font-family:Arial" type="submit" name="art1" value="Email Me Recommendations">
+      </form>
+<p style= "color:white"> Happy Living!! <br><br>Roomies Team</p>
+
+         
+   </body>
+</html>
